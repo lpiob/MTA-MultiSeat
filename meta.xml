@@ -1,0 +1,4 @@
+<meta>
+  <script src="multiseat.lua" type="server" />
+  <script src="multiseat_c.lua" type="client" />
+</meta>
